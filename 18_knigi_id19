@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 09:00">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="34">Книги</category>
+		</categories>
+		<offers>
+			<offer id="34" available="true">
+				<url>https://flowwow.loc/offer/34</url>
+				<categoryId>34</categoryId>
+				<name>Книги</name>
+				<price>800</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Энциклопедия цветов</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
