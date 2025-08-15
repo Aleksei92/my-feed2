@@ -16,7 +16,8 @@
 				<price>2000</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Парфюм для женщин</description>
-<param name="Объем, гр">500</param>
+<param name="Объем, гр">5</param>
+<weight>5</weight>
 			</offer>
 			<offer id="17" available="true">
 				<url>https://flowwow.loc/offer/17</url>
