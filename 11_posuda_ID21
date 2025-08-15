@@ -13,7 +13,7 @@
 				<categoryId>24</categoryId>
 				<name>Посуда</name>
 				<price>500</price>
-				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
 				<description>Тарелка ручной работы</description>
 				<param name="Высота, мм">20</param>
 				<param name="Ширина, мм">200</param>
