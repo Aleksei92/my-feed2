@@ -19,7 +19,6 @@
 				<consist name="яблоко" unit="шт">2</consist>
 				<param name="Высота">300</param>
 				<param name="Ширина">250</param>
-				<param name="Время изготовления">90</param>
 			</offer>
 			<offer id="10">
 				<categoryId>10</categoryId>
@@ -30,7 +29,6 @@
 				<consist name="клубника" unit="шт">15</consist>
 				<param name="Высота, мм">250</param>
 				<param name="Ширина, мм">200</param>
-				<param name="Время изготовления">60</param>
 			</offer>
 		</offers>
 	</shop>
