@@ -15,9 +15,8 @@
 				<price>10000</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Кольцо с бриллиантом</description>
-				<param name="Высота, мм">10</param>
-				<param name="Ширина, мм">10</param>
-				<param name="Материал">Золото</param>
+				<param name="Высота, мм">100</param>
+				<param name="Ширина, мм">100</param>
 			</offer>
 		</offers>
 	</shop>
