@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 09:04">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="38">Для дома</category>
+		</categories>
+		<offers>
+			<offer id="38" available="true">
+				<url>https://flowwow.loc/offer/38</url>
+				<categoryId>38</categoryId>
+				<name>Для дома</name>
+				<price>800</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Стеклянная ваза</description>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
