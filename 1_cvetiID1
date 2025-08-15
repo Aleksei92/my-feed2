@@ -24,7 +24,6 @@
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
-				<param name="Время изготовления">70</param>
 			</offer>
 			<offer id="2">
 				<categoryId>2</categoryId>
