@@ -16,9 +16,6 @@
 				<price>2000</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Парфюм для женщин</description>
-				<param name="Объём, мл">6</param>
-				<param name="Бренд">Бренд1</param>
-				<param name="Состав">Спирт, вода, ароматизаторы</param>
 			</offer>
 			<offer id="17" available="true">
 				<url>https://flowwow.loc/offer/17</url>
@@ -29,7 +26,6 @@
 				<description>Ароматное мыло</description>
 				<param name="Высота, мм">60</param>
 				<param name="Ширина, мм">80</param>
-				<param name="Материал">Глицерин</param>
 			</offer>
 		</offers>
 	</shop>
