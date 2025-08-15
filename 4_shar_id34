@@ -14,10 +14,8 @@
 				<price>800</price>
 				<description>Набор из 5 шаров</description>
 				<picture>https://cdn.pixabay.com/photo/2016/11/29/05/45/balloons-1867902_1280.jpg</picture>
-				<available>true</available>
-				<param name="Высота, мм">500</param>
+				<param name="Высота, мм">900</param>
 				<param name="Ширина, мм">500</param>
-				<param name="Тип">SETS</param>
 			</offer>
 		</offers>
 	</shop>
