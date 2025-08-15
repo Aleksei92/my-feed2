@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:54">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="27">Одежда</category>
+			<category id="28">Одежда 356 шорты</category>
+		</categories>
+		<offers>
+			<offer id="27" available="true">
+				<url>https://flowwow.loc/offer/27</url>
+				<categoryId>27</categoryId>
+				<name>Одежда</name>
+				<price>800</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Хлопковая футболка</description>
+			</offer>
+			<offer id="28" available="true">
+				<url>https://flowwow.loc/offer/28</url>
+				<categoryId>28</categoryId>
+				<name>Одежда 356 шорты</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Шорты для лета</description>
+				<param name="Высота, cм">150</param>
+				<param name="Ширина, cм">100</param>
+				<qty>100</qty>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
