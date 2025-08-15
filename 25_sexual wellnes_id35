@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 09:07">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="41">Sexual wellness</category>
+		</categories>
+		<offers>
+			<offer id="41" available="true">
+				<url>https://flowwow.loc/offer/41</url>
+				<categoryId>41</categoryId>
+				<name>Sexual wellness</name>
+				<price>1500</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Масло для расслабления</description>
+				<weight>0</weight>
+				<adult>true</adult>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
