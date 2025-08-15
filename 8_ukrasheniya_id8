@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:46">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="21">Украшения</category>
+		</categories>
+		<offers>
+			<offer id="21" available="true">
+				<url>https://flowwow.loc/offer/21</url>
+				<categoryId>21</categoryId>
+				<name>Украшения</name>
+				<price>10000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Кольцо с бриллиантом</description>
+				<param name="Высота, мм">10</param>
+				<param name="Ширина, мм">10</param>
+				<param name="Материал">Золото</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
