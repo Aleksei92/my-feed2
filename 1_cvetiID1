@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15T08:13:49+02:00">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="1">Цветы 1</category>
+			<category id="2">Цветы 44 сухоцвет</category>
+			<category id="3">Цветы 10 подарочные наборы</category>
+			<category id="4">Цветы 8 мягкие игр</category>
+			<category id="5">Цветы 118 цветы поштучно</category>
+			<category id="6">Цветы 208 букет из мыла</category>
+			<category id="7">Цветы 43 стабилизированные</category>
+			<category id="8">Цветы 89 другое</category>
+		</categories>
+		<offers>
+			<offer id="1">
+				<categoryId>1</categoryId>
+				<price>1500</price>
+				<name>Цветы 1</name>
+				<description>Классический букет из 5 роз</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+				<param name="Время изготовления">60</param>
+			</offer>
+			<offer id="2">
+				<categoryId>2</categoryId>
+				<name>Цветы 44 сухоцвет</name>
+				<price>1200</price>
+				<description>Букет из лаванды и хлопка</description>
+				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
+				<param name="Высота, мм">300</param>
+				<param name="Ширина, мм">200</param>
+				<available>true</available>
+			</offer>
+			<offer id="3">
+				<categoryId>3</categoryId>
+				<name>Цветы 10 подарочные наборы</name>
+				<price>2500</price>
+				<description>Набор с цветами и сладостями</description>
+				<picture>https://cdn.pixabay.com/photo/2017/08/06/15/34/bag-2594611_1280.jpg</picture>
+				<available>true</available>
+				<consist name="роза" unit="шт">3</consist>
+				<param name="Высота, мм">250</param>
+				<param name="Ширина, мм">200</param>
+			</offer>
+			<offer id="4">
+				<categoryId>4</categoryId>
+				<name>Цветы 8 мягкие игр</name>
+				<price>1800</price>
+				<description>Мишка, сделанный из роз</description>
+				<picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
+				<available>true</available>
+				<param name="Высота, мм">300</param>
+				<param name="Ширина, мм">250</param>
+			</offer>
+			<offer id="5">
+				<categoryId>5</categoryId>
+				<name>Цветы 118 цветы поштучно</name>
+				<price>150</price>
+				<description>Одна красная роза</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<available>true</available>
+				<count>10</count>
+				<param name="Высота, мм">500</param>
+			</offer>
+			<offer id="6">
+				<categoryId>6</categoryId>
+				<name>Цветы 208 букет из мыла</name>
+				<price>800</price>
+				<description>Букет, имитирующий цветы</description>
+				<picture>https://cdn.pixabay.com/photo/2017/02/15/15/15/cinnamon-rolls-2069275_1280.jpg</picture>
+				<available>true</available>
+				<param name="Высота, мм">250</param>
+				<param name="Ширина, мм">150</param>
+			</offer>
+			<offer id="7">
+				<categoryId>7</categoryId>
+				<name>Цветы 43 стабилизированные</name>
+				<price>2000</price>
+				<description>Неувядающая роза в колбе</description>
+				<picture>https://cdn.pixabay.com/photo/2017/05/27/11/41/cup-of-coffee-2348981_1280.jpg</picture>
+				<available>true</available>
+				<consist name="роза" unit="шт">1</consist>
+				<param name="Высота, мм">150</param>
+				<param name="Ширина, мм">100</param>
+			</offer>
+			<offer id="8">
+				<categoryId>8</categoryId>
+				<name>Цветы 89 другое</name>
+				<price>300</price>
+				<description>Упаковочная бумага</description>
+				<picture>https://cdn.pixabay.com/photo/2017/07/28/22/02/tote-bag-2550186_1280.jpg</picture>
+				<available>true</available>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">300</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
