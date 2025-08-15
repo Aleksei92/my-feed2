@@ -13,7 +13,7 @@
 				<categoryId>25</categoryId>
 				<name>Аксессуары</name>
 				<price>2000</price>
-				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<image>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</image>
 				<description>Ремень из натуральной кожи</description>
 				<param name="Высота, мм">20</param>
 				<param name="Ширина, мм">200</param>
