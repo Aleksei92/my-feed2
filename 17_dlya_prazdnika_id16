@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:59">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="31">Товары для праздника 127 Ёлки</category>
+			<category id="32">Товары для праздника 232 Оформление цветами</category>
+			<category id="33">Товары для праздника</category>
+		</categories>
+		<offers>
+			<offer id="31" available="true">
+				<url>https://flowwow.loc/offer/31</url>
+				<categoryId>31</categoryId>
+				<name>Товары для праздника 127 Ёлки</name>
+				<price>5000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Большая искусственная ёлка</description>
+				<param name="Высота, мм">1500</param>
+				<param name="Ширина, мм">800</param>
+				<param name="Время изготовления">120</param>
+			</offer>
+			<offer id="32" available="true">
+				<url>https://flowwow.loc/offer/32</url>
+				<categoryId>32</categoryId>
+				<name>Товары для праздника 232 Оформление цветами</name>
+				<price>20000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Декор цветами для свадьбы</description>
+				<param name="Высота, мм">2000</param>
+				<param name="Ширина, мм">3000</param>
+				<param name="Время изготовления">240</param>
+			</offer>
+			<offer id="33" available="true">
+				<url>https://flowwow.loc/offer/33</url>
+				<categoryId>33</categoryId>
+				<name>Товары для праздника</name>
+				<price>150</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Свечи в виде цифр</description>
+				<param name="Высота, мм">50</param>
+				<param name="Ширина, мм">20</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
