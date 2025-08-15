@@ -19,7 +19,6 @@
 				<description>Большая искусственная ёлка</description>
 				<param name="Высота, мм">1500</param>
 				<param name="Ширина, мм">800</param>
-				<param name="Время изготовления">120</param>
 			</offer>
 			<offer id="32" available="true">
 				<url>https://flowwow.loc/offer/32</url>
@@ -30,7 +29,6 @@
 				<description>Декор цветами для свадьбы</description>
 				<param name="Высота, мм">2000</param>
 				<param name="Ширина, мм">3000</param>
-				<param name="Время изготовления">240</param>
 <consist name="роза" unit="шт">5</consist>
 			</offer>
 			<offer id="33" available="true">
