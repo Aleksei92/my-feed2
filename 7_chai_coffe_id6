@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:45">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="18">Магазины чая и кофе 29 чай</category>
+			<category id="19">Магазины чая и кофе 90 наборы</category>
+			<category id="20">Магазины чая и кофе 213 аксессуары</category>
+		</categories>
+		<offers>
+			<offer id="18" available="true">
+				<url>https://flowwow.loc/offer/18</url>
+				<categoryId>18</categoryId>
+				<name>Магазины чая и кофе 29 чай</name>
+				<price>400</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Чай в пакетиках</description>
+				<weight>0.1</weight>
+				<param name="Вес, грамм">100</param>
+			</offer>
+			<offer id="19" available="true">
+				<url>https://flowwow.loc/offer/19</url>
+				<categoryId>19</categoryId>
+				<name>Магазины чая и кофе 90 наборы</name>
+				<price>1500</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Набор из 5 сортов чая</description>
+				<weight>0.1</weight>
+				<param name="Вес, грамм">100</param>
+				<consist name="чай" unit="шт">5</consist>
+			</offer>
+			<offer id="20" available="true">
+				<url>https://flowwow.loc/offer/20</url>
+				<categoryId>20</categoryId>
+				<name>Магазины чая и кофе 213 аксессуары</name>
+				<price>300</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Ситечко для чая</description>
+				<param name="Высота, мм">100</param>
+				<param name="Ширина, мм">50</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
