@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:46">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="22">Вкусные наборы</category>
+		</categories>
+		<offers>
+			<offer id="22" available="true">
+				<url>https://flowwow.loc/offer/22</url>
+				<categoryId>22</categoryId>
+				<name>Вкусные наборы</name>
+				<price>2500</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Корзина со свежими фруктами</description>
+				<consist name="яблоко" unit="шт">2</consist>
+				<consist name="апельсин" unit="шт">3</consist>
+				<param name="Высота, мм">100</param>
+				<param name="Ширина, мм">100</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
