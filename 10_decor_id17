@@ -13,7 +13,7 @@
 				<categoryId>23</categoryId>
 				<name>Декор</name>
 				<price>1500</price>
-				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
 				<description>Часы в стиле лофт</description>
 				<param name="Высота, мм">300</param>
 				<param name="Ширина, мм">300</param>
