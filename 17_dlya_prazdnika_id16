@@ -31,6 +31,7 @@
 				<param name="Высота, мм">2000</param>
 				<param name="Ширина, мм">3000</param>
 				<param name="Время изготовления">240</param>
+<consist name="роза" unit="шт">5</consist>
 			</offer>
 			<offer id="33" available="true">
 				<url>https://flowwow.loc/offer/33</url>
