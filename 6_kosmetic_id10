@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:44">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="16">Косметика и Парфюмерия 34</category>
+			<category id="17">Косметика и Парфюмерия 198 мыло ручной работы</category>
+		</categories>
+		<offers>
+			<offer id="16" available="true">
+				<url>https://flowwow.loc/offer/16</url>
+				<categoryId>16</categoryId>
+				<name>Косметика и Парфюмерия 34</name>
+				<price>2000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Парфюм для женщин</description>
+				<param name="Объём, мл">6</param>
+				<param name="Бренд">Бренд1</param>
+				<param name="Состав">Спирт, вода, ароматизаторы</param>
+			</offer>
+			<offer id="17" available="true">
+				<url>https://flowwow.loc/offer/17</url>
+				<categoryId>17</categoryId>
+				<name>Косметика и Парфюмерия 198 мыло ручной работы</name>
+				<price>350</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Ароматное мыло</description>
+				<param name="Высота, мм">60</param>
+				<param name="Ширина, мм">80</param>
+				<param name="Материал">Глицерин</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
