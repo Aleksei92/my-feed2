@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:47">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="23">Декор</category>
+		</categories>
+		<offers>
+			<offer id="23" available="true">
+				<url>https://flowwow.loc/offer/23</url>
+				<categoryId>23</categoryId>
+				<name>Декор</name>
+				<price>1500</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Часы в стиле лофт</description>
+				<param name="Высота, мм">300</param>
+				<param name="Ширина, мм">300</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
