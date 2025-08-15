@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 09:02">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="36">Зоотовары</category>
+		</categories>
+		<offers>
+			<offer id="36" available="true">
+				<url>https://flowwow.loc/offer/36</url>
+				<categoryId>36</categoryId>
+				<name>Зоотовары</name>
+				<price>400</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Сухой корм</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
