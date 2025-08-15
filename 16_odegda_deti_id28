@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:58">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="30">Одежда для детей</category>
+		</categories>
+		<offers>
+			<offer id="30" available="true">
+				<url>https://flowwow.loc/offer/30</url>
+				<categoryId>30</categoryId>
+				<name>Одежда для детей</name>
+				<price>1000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Праздничное платье для девочки</description>
+				<param name="Для кого">Девочка</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
