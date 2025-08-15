@@ -12,6 +12,7 @@
 				<categoryId>11</categoryId>
 				<name>Кондитерские и пекарни</name>
 				<price>1800</price>
+<description>Мука пшеничная, молоко, яйца, сливочное масло, мак, сахар, дрожжи</description>
 				<picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
 				<weight>0.5</weight>
 				<available>true</available>
