@@ -16,7 +16,7 @@
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Натюрморт</description>
 				<param name="Материал">Холст</param>
-				<param name="Оригинал/Репродукция">Репродукция</param>
+				<param name="Оригинал или репродукция">Репродукция</param>
 				<param name="Высота, мм">500</param>
 				<param name="Ширина, мм">700</param>
 			</offer>
