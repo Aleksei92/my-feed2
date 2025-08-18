@@ -18,7 +18,6 @@
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Чай в пакетиках</description>
 				<weight>0.1</weight>
-				<param name="Вес, грамм">100</param>
 			</offer>
 			<offer id="19" available="true">
 				<url>https://flowwow.loc/offer/19</url>
@@ -28,7 +27,6 @@
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Набор из 5 сортов чая</description>
 				<weight>0.1</weight>
-				<param name="Вес, грамм">100</param>
 				<consist name="чай" unit="шт">5</consist>
 			</offer>
 			<offer id="20" available="true">
