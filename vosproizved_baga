@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 09:09:00">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="37">Подарочные сертификаты</category>
+			<category id="1">Цветы 1</category>
+		</categories>
+		<offers>
+			<offer id="37" available="true">
+				<url>https://flowwow.loc/offer/37</url>
+				<categoryId>37</categoryId>
+				<currencyId>RUB</currencyId>
+				<name>Сертификат электронный</name>
+				<price>1000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Сертификат с</description>
+				<downloadable>true</downloadable>
+				<param name="Вид поставки">электронный ключ</param>
+				<param name="Номинал">1500 руб</param>
+				<qty>100</qty>
+			</offer>
+			<offer id="1">
+				<categoryId>1</categoryId>
+				<price>1500</price>
+				<name>Цветы 1</name>
+				<description>Классический букет из 5 роз</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">5</consist>
+				<param name="Высота, мм">400</param>
+				<param name="Ширина, мм">250</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
