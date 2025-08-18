@@ -17,6 +17,7 @@
 				<description>Блокнот в клеточку</description>
 				<param name="Высота, мм">500</param>
 				<param name="Ширина, мм">700</param>
+<qty>10</qty>
 			</offer>
 		</offers>
 	</shop>
