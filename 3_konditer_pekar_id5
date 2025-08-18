@@ -15,6 +15,7 @@
 <description>Прекрасный тортик Вес: 500 гр</description>
 				<picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
 				<available>true</available>
+<weight>0.5</weight>
 				<param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
 				<param name="Высота, см">6</param>
 				<param name="Ширина, см">12</param>
