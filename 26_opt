@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15T08:13:49+02:00">
+	<shop>
+		<name>Мастер-фид для всех категорий</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="37">Цветы оптом 435</category>
+		</categories>
+		<offers>
+			<offer id="1234">
+				<categoryId>37</categoryId>
+				<name>Тест цветы оптом</name>
+				<price>150</price>
+				<description>Одна красная роза</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<available>true</available>
+				<count>10</count>
+				<param name="Высота, мм">500</param>
+        <quantity_per_package>10</quantity_per_package>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
