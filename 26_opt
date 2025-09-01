@@ -17,7 +17,7 @@
 				<available>true</available>
 				<count>10</count>
 				<param name="Высота, мм">500</param>
-        <quantity_per_package>10</quantity_per_package>
+        <quantity_in_package>10</quantity_in_package>
 			</offer>
 		</offers>
 	</shop>
