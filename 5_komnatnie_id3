@@ -14,7 +14,7 @@
 				<url>https://flowwow.loc/offer/13</url>
 				<categoryId>13</categoryId>
 				<name>Комнатные растения 14</name>
-				<price>600</price>
+				<price>6</price>
 				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
 				<description>Цветок в горшке</description>
 				<param name="Высота, мм">200</param>
@@ -24,7 +24,7 @@
 				<url>https://flowwow.loc/offer/14</url>
 				<categoryId>14</categoryId>
 				<name>Комнатные растения 20 саженцы и рассада</name>
-				<price>50</price>
+				<price>5</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Рассада для огорода</description>
 				<param name="Высота, мм">100</param>
@@ -34,7 +34,7 @@
 				<url>https://flowwow.loc/offer/15</url>
 				<categoryId>15</categoryId>
 				<name>Комнатные растения 140 Кашпо и горшки для цветов</name>
-				<price>250</price>
+				<price>25</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Керамический горшок для цветов</description>
 				<param name="Высота, мм">150</param>
