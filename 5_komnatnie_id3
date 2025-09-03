@@ -30,7 +30,7 @@
 				<param name="Высота, мм">100</param>
 				<param name="Ширина, мм">50</param>
 			</offer>
-			<offer id="15" available="true">
+			<offer id="15" available="false">
 				<url>https://flowwow.loc/offer/15</url>
 				<categoryId>15</categoryId>
 				<name>Комнатные растения 140 Кашпо и горшки для цветов</name>
