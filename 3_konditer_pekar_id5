@@ -8,13 +8,12 @@
 			<category id="11">Кондитерские и пекарни</category>
 		</categories>
 		<offers>
-			<offer id="11">
+			<offer id="11" available="true">
 				<categoryId>11</categoryId>
 				<name>Кондитерские и пекарни  </name>
 				<price>1800</price>
 <description>Прекрасный тортик</description>
 				<picture>https://cdn.pixabay.com/photo/2017/04/17/23/50/dice-2237894_1280.jpg</picture>
-				<available>true</available>
 <weight>0.5</weight>
 				<param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
 				<param name="Высота, см">6</param>
