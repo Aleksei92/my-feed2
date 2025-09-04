@@ -9,7 +9,7 @@
 			<category id="10">Съедобные букеты 112 из клубники</category>
 		</categories>
 		<offers>
-			<offer id="9">
+			<offer id="9" available="true">
 				<categoryId>9</categoryId>
 				<name>Съедобные букеты 22</name>
 				<price>2500</price>
@@ -18,7 +18,7 @@
 				<consist name="клубника" unit="шт">10</consist>
 				<consist name="яблоко" unit="шт">2</consist>
 			</offer>
-			<offer id="10">
+			<offer id="10" available="true">
 				<categoryId>10</categoryId>
 				<name>Съедобные букеты 112 из клубники</name>
 				<price>3000</price>
