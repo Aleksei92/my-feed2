@@ -8,7 +8,7 @@
 			<category id="12">Воздушные шары</category>
 		</categories>
 		<offers>
-			<offer id="12">
+			<offer id="12" available="true">
 				<categoryId>12</categoryId>
 				<name>Воздушные шары</name>
 				<price>800</price>
