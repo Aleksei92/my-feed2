@@ -17,6 +17,8 @@
 				<picture>https://cdn.pixabay.com/photo/2016/11/29/18/25/running-shoes-1871261_1280.jpg</picture>
 				<consist name="клубника" unit="шт">10</consist>
 				<consist name="яблоко" unit="шт">2</consist>
+<param name="Высота, мм">250</param>
+				<param name="Ширина, мм">200</param>
 			</offer>
 			<offer id="10" available="true">
 				<categoryId>10</categoryId>
