@@ -16,6 +16,7 @@
 				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
 				<param name="Высота, мм">300</param>
 				<param name="Ширина, мм">200</param>
+<consist name="роза" unit="шт">5</consist>
 			</offer>
 		</offers>
 	</shop>
