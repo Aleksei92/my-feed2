@@ -10,7 +10,7 @@
 		<offers>
 			<offer id="42" available="true">
 				<categoryId>37</categoryId>
-				<name>Тест цветы оптом всё обновляем</name>
+				<name>Тест цветы оптом</name>
 				<price>1500</price>
 				<description>Одна красная роза в коробке</description>
 				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
