@@ -17,6 +17,7 @@
 				<count>30</count>
 				<param name="Высота, мм">400</param>
         <quantity_in_package>10</quantity_in_package>
+<minorder>10</minorder>
 			</offer>
 		</offers>
 	</shop>
