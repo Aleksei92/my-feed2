@@ -11,7 +11,7 @@
 			<offer id="24" available="true">
 				<url>https://flowwow.loc/offer/24</url>
 				<categoryId>24</categoryId>
-				<name>Посуда</name>
+				<name>Посуда тест фида</name>
 				<price>500</price>
 				<picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
 				<description>Тарелка ручной работы</description>
