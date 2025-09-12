@@ -5,7 +5,7 @@
 		<company>ООО Тест</company>
 		<url>https://flowwow.loc</url>
 		<categories>
-			<category id="34">Книги</category>
+			<category id="34">Книги тест фида</category>
 		</categories>
 		<offers>
 			<offer id="34" available="true">
