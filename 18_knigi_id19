@@ -11,7 +11,7 @@
 			<offer id="34" available="true">
 				<url>https://flowwow.loc/offer/34</url>
 				<categoryId>34</categoryId>
-				<name>Книги</name>
+				<name>Книги тест фида</name>
 				<price>800</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Энциклопедия цветов</description>
