@@ -1,0 +1,136 @@
+<yml_catalog date="2023-12-01 12:00">
+<shop>
+<name>handcrafted.choco</name>
+<company>handcrafted.choco</company>
+<url>https://flowwow.com/shop/handcraftedchoco/</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Комнатные растения</category>
+<category id="2">Цветы в горшках</category>
+</categories>
+<offers>
+<offer id="00124" available="true">
+<price>10</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<name>Клещевина обыкновенная</name>
+<description>Описание Клещевина обыкновенная</description>
+<vendor>Producer</vendor>
+<qty>5</qty>
+<param name="Высота, см">100</param>
+<param name="Ширина, см">50</param>
+<picture>https://example.com/images/kleschevina.jpg</picture>
+</offer>
+<offer id="00125" available="true">
+<price>15</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<name>Шеффлера</name>
+<description>Описание Шеффлера</description>
+<vendor>Producer</vendor>
+<qty>3</qty>
+<param name="Высота, см">80</param>
+<param name="Ширина, см">40</param>
+<picture>https://example.com/images/shefflera.jpg</picture>
+</offer>
+<offer id="00126" available="true">
+<price>12</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<name>Безвременник осенний</name>
+<description>Описание Безвременник осенний</description>
+<vendor>Producer</vendor>
+<qty>7</qty>
+<param name="Высота, см">30</param>
+<param name="Ширина, см">15</param>
+<picture>https://example.com/images/bezvremennik.jpg</picture>
+</offer>
+<offer id="00127" available="true">
+<price>20</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Традесканция</name>
+<description>Описание Традесканция</description>
+<vendor>Producer</vendor>
+<qty>4</qty>
+<param name="Высота, см">60</param>
+<param name="Ширина, см">25</param>
+<picture>https://example.com/images/tradeskantsiya.jpg</picture>
+</offer>
+<offer id="00128" available="true">
+<price>18</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Живокость</name>
+<description>Описание Живокость</description>
+<vendor>Producer</vendor>
+<qty>6</qty>
+<param name="Высота, см">70</param>
+<param name="Ширина, см">30</param>
+<picture>https://example.com/images/zhivokost.jpg</picture>
+</offer>
+<offer id="00129" available="true">
+<price>5</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>цветок1</name>
+<description>Описание цветок1</description>
+<vendor>Producer</vendor>
+<qty>10</qty>
+<param name="Высота, см">25</param>
+<param name="Ширина, см">15</param>
+<picture>https://example.com/images/flower1.jpg</picture>
+</offer>
+<offer id="00130" available="true">
+<price>6</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>цветок2</name>
+<description>Описание цветок2</description>
+<vendor>Producer</vendor>
+<qty>8</qty>
+<param name="Высота, см">30</param>
+<param name="Ширина, см">20</param>
+<picture>https://example.com/images/flower2.jpg</picture>
+</offer>
+<offer id="00131" available="true">
+<price>7</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>цветок3</name>
+<description>Описание цветок3</description>
+<vendor>Producer</vendor>
+<qty>12</qty>
+<param name="Высота, см">35</param>
+<param name="Ширина, см">22</param>
+<picture>https://example.com/images/flower3.jpg</picture>
+</offer>
+<offer id="00132" available="true">
+<price>8</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>цветок4</name>
+<description>Описание цветок4</description>
+<vendor>Producer</vendor>
+<qty>9</qty>
+<param name="Высота, см">40</param>
+<param name="Ширина, см">25</param>
+<picture>https://example.com/images/flower4.jpg</picture>
+</offer>
+<offer id="00133" available="true">
+<price>9</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>цветок5</name>
+<description>Описание цветок5</description>
+<vendor>Producer</vendor>
+<qty>11</qty>
+<param name="Высота, см">45</param>
+<param name="Ширина, см">30</param>
+<picture>https://example.com/images/flower5.jpg</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
