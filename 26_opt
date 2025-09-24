@@ -9,7 +9,7 @@
 			<category id="38">Зелень</category>
 		</categories>
 		<offers>
-			<offer id="Р00776" available="true">
+			<offer id="Р00776" available="false">
 				<categoryId>37</categoryId>
 				<name>Георгин Оранжевый 60 см Арт. Р00776</name>
 				<price>123</price>
@@ -28,8 +28,8 @@
 			<offer id="Р01599" available="true">
 				<categoryId>38</categoryId>
 				<name>Крокосмия Бес Люцифер 90 см Арт. Р01599</name>
-				<price>77</price>
-				<qty>150</qty>
+				<price>100</price>
+				<qty>100</qty>
 				<quantity_in_package>10</quantity_in_package>
 				<picture>https://lh3.googleusercontent.com/d/1Fm0jpkA0n6FXXq6xDTCKLWs8_0Yci_Ly</picture>
 				<picture>https://lh3.googleusercontent.com/d/17pFP7midatGk6lmOgclR089GufpexnKS</picture>
