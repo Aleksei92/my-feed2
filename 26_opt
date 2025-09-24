@@ -41,6 +41,16 @@
 				<param name="Страна">Россия</param>
 				<param name="Артикул">Р01599</param>
 			</offer>
+<offer id="42" available="true">
+				<categoryId>37</categoryId>
+				<name>Тест цветы оптом</name>
+				<price>150</price>
+				<description>Одна красная роза</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<count>15</count>
+				<param name="Высота, мм">500</param>
+        <quantity_in_package>1</quantity_in_package>
+			</offer>
 		</offers>
 	</shop>
 </yml_catalog>
