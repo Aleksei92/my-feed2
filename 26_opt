@@ -1,24 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-15T08:13:49+02:00">
+<yml_catalog date="2025-09-24T08:17:01+03:00">
 	<shop>
-		<name>Мастер-фид для всех категорий</name>
-		<company>ООО Тест</company>
-		<url>https://flowwow.loc</url>
+		<name>ROSANA`S FLOWERS</name>
+		<company>rosanas</company>
+		<url>https://example.com</url>
 		<categories>
-			<category id="37">Цветы оптом 435</category>
+			<category id="37">Цветы</category>
+			<category id="38">Зелень</category>
 		</categories>
 		<offers>
-			<offer id="42" available="true">
+			<offer id="Р00776" available="true">
 				<categoryId>37</categoryId>
-				<name>Тест цветы оптом</name>
-				<price>1500</price>
-				<description>Одна красная роза в коробке</description>
-				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
-				<count>30</count>
-				<param name="Высота, мм">400</param>
-        <quantity_in_package>10</quantity_in_package>
-<minorder>10</minorder>
+				<name>Георгин Оранжевый 60 см Арт. Р00776</name>
+				<price>123</price>
+				<qty>210</qty>
+				<quantity_in_package>10</quantity_in_package>
+				<picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+				<picture>https://lh3.googleusercontent.com/d/1qLTBD-Zh8PGM4NVrqt6ZS1acoi0b3hgD</picture>
+				<picture>https://lh3.googleusercontent.com/d/1gRbnF3J5bWtz_PH-6QfLA_vWFI-9AdKz</picture>
+				<picture>https://lh3.googleusercontent.com/d/1FQpCW_aNsE0NZNYj1zVQrpbQdw9XfxDs</picture>
+				<picture>https://lh3.googleusercontent.com/d/1_i8_JRQgReaL1-CoYoIvnlDWY20XFmSG</picture>
+				<description>Георгин Оранжевый 60 см Арт. Р00776</description>
+				<param name="Высота, см">60</param>
+				<param name="Страна">Россия</param>
+				<param name="Артикул">Р00776</param>
+			</offer>
+			<offer id="Р01599" available="true">
+				<categoryId>38</categoryId>
+				<name>Крокосмия Бес Люцифер 90 см Арт. Р01599</name>
+				<price>77</price>
+				<qty>150</qty>
+				<quantity_in_package>10</quantity_in_package>
+				<picture>https://lh3.googleusercontent.com/d/1Fm0jpkA0n6FXXq6xDTCKLWs8_0Yci_Ly</picture>
+				<picture>https://lh3.googleusercontent.com/d/17pFP7midatGk6lmOgclR089GufpexnKS</picture>
+				<picture>https://lh3.googleusercontent.com/d/1UldF9gyMeOLnUqLl_I6B308dvfszlyia</picture>
+				<picture>https://lh3.googleusercontent.com/d/1vUPwOAZqEfU60Nd62KZ-qckM_B28NlP3</picture>
+				<picture>https://lh3.googleusercontent.com/d/19TMi7r1sz3SYeCndZeRCyLFFXYDmlV5M</picture>
+				<description>Бес Люцифер</description>
+				<param name="Высота, см">90</param>
+				<param name="Страна">Россия</param>
+				<param name="Артикул">Р01599</param>
 			</offer>
 		</offers>
 	</shop>
 </yml_catalog>
+
