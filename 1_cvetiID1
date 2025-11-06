@@ -20,7 +20,9 @@
 				<price>1500</price>
 				<name>Цветы 1</name>
 				<description>Классический букет из 5 роз</description>
-				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<picture>https://tkano.ru/upload/iblock/5a3/610oi8qe0m0bllapvdvbxmy74y5o6na9.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/1c2/c1fwbhwytitqk6w31u6zd1ug3z2mb4iu.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/fa0/g92zk3gpc7889n3ww66jhfetik44iuh9.jpeg</picture>
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
@@ -30,7 +32,9 @@
 				<name>Цветы 44 сухоцвет</name>
 				<price>1200</price>
 				<description>Букет из лаванды и хлопка</description>
-				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
+				<picture>https://tkano.ru/upload/iblock/50c/28wykgxswdtipz0ufyp3uiwgdgn23aj7.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/0cc/515q10sugesvzet2qb9675j3upu0ornf.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/615/1qt89j63i02jmriu9qfgy7bozwhl01ow.jpeg</picture>
 				<param name="Высота, мм">300</param>
 				<param name="Ширина, мм">200</param>
 <consist name="роза" unit="шт">5</consist>
@@ -40,7 +44,8 @@
 				<name>Цветы 10 подарочные наборы</name>
 				<price>2500</price>
 				<description>Набор с цветами и сладостями</description>
-				<picture>https://cdn.pixabay.com/photo/2017/08/06/15/34/bag-2594611_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/524/n4d92x6ab9mj3to2ne75t6c0fysuw7ao.webp</picture>
 				<consist name="роза" unit="шт">3</consist>
 				<param name="Высота, мм">250</param>
 				<param name="Ширина, мм">200</param>
@@ -50,7 +55,8 @@
 				<name>Цветы 8 мягкие игр</name>
 				<price>1800</price>
 				<description>Мишка, сделанный из роз</description>
-				<picture>https://cdn.pixabay.com/photo/2016/11/29/08/33/bear-1868351_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/7e6/8odgu0j9ju88is7wkf8fo3o5c7g0rikr.webp</picture>
+<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/e56/2kagegq7wn7jp5rq1sz6swsvnl72294a.webp</picture>
 				<param name="Высота, мм">300</param>
 				<param name="Ширина, мм">250</param>
 			</offer>
@@ -59,7 +65,7 @@
 				<name>Цветы 118 цветы поштучно</name>
 				<price>150</price>
 				<description>Одна красная роза</description>
-				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
 				<count>10</count>
 				<param name="Высота, мм">500</param>
 			</offer>
@@ -68,7 +74,7 @@
 				<name>Цветы 208 букет из мыла</name>
 				<price>800</price>
 				<description>Букет, имитирующий цветы</description>
-				<picture>https://cdn.pixabay.com/photo/2017/02/15/15/15/cinnamon-rolls-2069275_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
 				<param name="Высота, мм">250</param>
 				<param name="Ширина, мм">150</param>
 			</offer>
@@ -77,7 +83,7 @@
 				<name>Цветы 43 стабилизированные</name>
 				<price>2000</price>
 				<description>Неувядающая роза в колбе</description>
-				<picture>https://cdn.pixabay.com/photo/2017/05/27/11/41/cup-of-coffee-2348981_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
 				<consist name="роза" unit="шт">1</consist>
 				<param name="Высота, мм">150</param>
 				<param name="Ширина, мм">100</param>
@@ -87,7 +93,7 @@
 				<name>Цветы 89 другое</name>
 				<price>300</price>
 				<description>Упаковочная бумага</description>
-				<picture>https://cdn.pixabay.com/photo/2017/07/28/22/02/tote-bag-2550186_1280.jpg</picture>
+				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
 				<param name="Высота, мм">500</param>
 				<param name="Ширина, мм">300</param>
 			</offer>
