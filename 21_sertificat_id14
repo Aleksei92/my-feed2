@@ -19,7 +19,7 @@
 				<downloadable>true</downloadable>
 				<param name="Вид поставки">электронный ключ</param>
 				<param name="Номинал">1500 руб</param>
-				<qty>0</qty>
+				<qty>1</qty>
 			</offer>
 		</offers>
 	</shop>
