@@ -10,8 +10,8 @@
 		<offers>
 			<offer id="2" available="true">
 				<categoryId>2</categoryId>
-				<name>Цветы 44 сухоцвет</name>
-				<price>1200</price>
+				<name>Букет из лаванды и хлопка</name>
+				<price>12002</price>
 				<description>Букет из лаванды и хлопка</description>
 				<picture>https://cdn.pixabay.com/photo/2018/06/25/11/17/lavender-3497880_1280.jpg</picture>
 				<param name="Высота, мм">300</param>
