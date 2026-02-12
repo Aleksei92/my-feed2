@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-02-12T12:00:00+03:00">
+    <shop>
+        <name>Тестовый магазин</name>
+        <company>ООО Тест</company>
+        <url>https://example.com</url>
+        <categories>
+            <category id="1">Цветы</category>
+        </categories>
+        <offers>
+            <offer id="101010" available="true">                
+                <categoryId>1</categoryId>
+                <price>1500</price>
+                <name>Букет из красных роз в офлайне</name>
+                <description>Свежие красные розы, 50 см</description>
+                <picture>https://example.com/photo1.jpg</picture>
+                <manufacturer>Flowwow Flowers</manufacturer>
+                <qty>25</qty>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
