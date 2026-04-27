@@ -18,6 +18,7 @@
 				<param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
 				<param name="Высота, см">6</param>
 				<param name="Ширина, см">12</param>
+<qty>25</qty>
 			</offer>
 		</offers>
 	</shop>
