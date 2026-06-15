@@ -40,7 +40,7 @@
 				<description>Керамический горшок для цветов</description>
 				<param name="Высота, мм">150</param>
 				<param name="Ширина, мм">150</param>
-<material>Хлопок</material>
+<material>Хлопок, Молоко</material>
 <material>Железо</material>
 			</offer>
 		</offers>
