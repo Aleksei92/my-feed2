@@ -19,6 +19,7 @@
 				<description>Цветок в горшке</description>
 				<param name="Высота, мм">200</param>
 				<param name="Ширина, мм">150</param>
+<watering_frequency unit="неделя">2</watering_frequency>
 			</offer>
 			<offer id="14" available="true">
 				<url>https://flowwow.loc/offer/14</url>
@@ -39,6 +40,7 @@
 				<description>Керамический горшок для цветов</description>
 				<param name="Высота, мм">150</param>
 				<param name="Ширина, мм">150</param>
+<material>Хлопок</material>
 			</offer>
 		</offers>
 	</shop>
