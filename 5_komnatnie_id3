@@ -19,7 +19,7 @@
 				<description>Цветок в горшке</description>
 				<param name="Высота, мм">200</param>
 				<param name="Ширина, мм">150</param>
-<watering_frequency unit="week">10</watering_frequency>
+<watering_frequency unit="weeks">10цус</watering_frequency>
 			</offer>
 			<offer id="14" available="true">
 				<url>https://flowwow.loc/offer/14</url>
