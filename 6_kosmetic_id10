@@ -17,6 +17,7 @@
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Парфюм для женщин</description>
 <weight>0.1</weight>
+<param name="Состав">Мука, яйца, сахар, масло, дрожжи</param>
 			</offer>
 			<offer id="17" available="true">
 				<url>https://flowwow.loc/offer/17</url>
@@ -27,6 +28,7 @@
 				<description>Ароматное мыло</description>
 				<param name="Высота, мм">60</param>
 				<param name="Ширина, мм">80</param>
+<material>Глицерин</material>
 			</offer>
 		</offers>
 	</shop>
