@@ -18,7 +18,7 @@
 				<description>Парфюм для женщин</description>
 <weight>0.1</weight>
 <param name="composition">Мука, яйца, сахар, масло, дрожжи</param>
-<composition name="роза" unit="шт">5</consist>
+<composition name="роза" unit="шт">5</composition>
 			</offer>
 			<offer id="17" available="true">
 				<url>https://flowwow.loc/offer/17</url>
