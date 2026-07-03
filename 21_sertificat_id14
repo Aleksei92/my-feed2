@@ -8,11 +8,11 @@
 			<category id="37">Подарочные сертификаты тест фида</category>
 		</categories>
 		<offers>
-			<offer id="37" available="true">
+			<offer id="370" available="true">
 				<url>https://flowwow.loc/offer/37</url>
 				<categoryId>37</categoryId>
 				<currencyId>RUB</currencyId>
-				<name>Сертификат электронный тест фида</name>
+				<name>Сертификат электронный тест фида1</name>
 				<price>1000</price>
 				<picture>https://tkano.ru/upload/iblock/1c2/c1fwbhwytitqk6w31u6zd1ug3z2mb4iu.jpeg</picture>
 				<description>Сертификат с</description>
