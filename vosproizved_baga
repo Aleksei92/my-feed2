@@ -57,7 +57,7 @@
 				<count>10</count>
 				<param name="Высота, мм">500</param>
 			</offer>
-			<offer id="6" available="true">
+			<offer id="6" available="false">
 				<categoryId>6</categoryId>
 				<name>Цветы 208 букет из мыла</name>
 				<price>800</price>
