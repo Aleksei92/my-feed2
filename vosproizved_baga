@@ -15,18 +15,6 @@
 			<category id="8">Цветы 89 другое</category>
 		</categories>
 		<offers>
-<offer id="1" available="true">
-				<categoryId>1</categoryId>
-				<price>1500</price>
-				<name>Цветы 1</name>
-				<description>Классический букет из 5 роз</description>
-				<picture>https://tkano.ru/upload/iblock/5a3/610oi8qe0m0bllapvdvbxmy74y5o6na9.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/1c2/c1fwbhwytitqk6w31u6zd1ug3z2mb4iu.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/fa0/g92zk3gpc7889n3ww66jhfetik44iuh9.jpeg</picture>
-				<consist name="роза" unit="шт">5</consist>
-				<param name="Высота, мм">400</param>
-				<param name="Ширина, мм">250</param>
-			</offer>
 			<offer id="2" available="true">
 				<categoryId>2</categoryId>
 				<name>Цветы 44 сухоцвет</name>
