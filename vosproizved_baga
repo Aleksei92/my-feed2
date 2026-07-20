@@ -23,11 +23,11 @@
 <weight>50</weight>
 <dimensions>20/20/20</dimensions>
 <count>2</count>
-<param name="Размер коробки крафт">18,5 x 18,5 x 22 см</param>
-<param name="Размер коробки крафт">15 x 15 x 19 см</param>
-<param name="Размер коробки крафт">11 x 11 x 14 см</param>
-<param name="Размер коробки крафт">17 x 17 x 20 см</param>
-<param name="Размер коробки крафт">14 x 14 x 16 см</param>
+<param name="Размер коробки крафт">18,5 x 18,5 x 22</param>
+<param name="Размер коробки крафт">15 x 15 x 19</param>
+<param name="Размер коробки крафт">11 x 11 x 14</param>
+<param name="Размер коробки крафт">17 x 17 x 20</param>
+<param name="Размер коробки крафт">14 x 14 x 16</param>
 <param name="Длина, Мм">200</param>
 <param name="Ширина, Мм">200</param>
 <param name="Высота, Мм">200</param>
