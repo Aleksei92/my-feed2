@@ -5,86 +5,33 @@
 		<company>ООО Тест</company>
 		<url>https://flowwow.loc</url>
 		<categories>
-			<category id="1">Цветы 1</category>
-			<category id="2">Цветы 44 сухоцвет</category>
-			<category id="3">Цветы 10 подарочные наборы</category>
-			<category id="4">Цветы 8 мягкие игр</category>
-			<category id="5">Цветы 118 цветы поштучно</category>
-			<category id="6">Цветы 208 букет из мыла</category>
-			<category id="7">Цветы 43 стабилизированные</category>
-			<category id="8">Цветы 89 другое</category>
+			<category id="7520">Цветы 1</category>
 		</categories>
 		<offers>
-			<offer id="2" available="true">
-				<categoryId>2</categoryId>
-				<name>Цветы 44 сухоцвет</name>
-				<price>1200</price>
-				<description>Букет из лаванды и хлопка</description>
-				<picture>https://tkano.ru/upload/iblock/50c/28wykgxswdtipz0ufyp3uiwgdgn23aj7.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/0cc/515q10sugesvzet2qb9675j3upu0ornf.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/615/1qt89j63i02jmriu9qfgy7bozwhl01ow.jpeg</picture>
-				<param name="Высота, мм">300</param>
-				<param name="Ширина, мм">200</param>
-<consist name="роза" unit="шт">5</consist>
-			</offer>
-			<offer id="3" available="true">
-				<categoryId>3</categoryId>
-				<name>Цветы 10 подарочные наборы</name>
-				<price>2500</price>
-				<description>Набор с цветами и сладостями</description>
-				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/524/n4d92x6ab9mj3to2ne75t6c0fysuw7ao.webp</picture>
-				<consist name="роза" unit="шт">3</consist>
-				<param name="Высота, мм">250</param>
-				<param name="Ширина, мм">200</param>
-			</offer>
-			<offer id="4" available="true">
-				<categoryId>4</categoryId>
-				<name>Цветы 8 мягкие игр</name>
-				<price>1800</price>
-				<description>Мишка, сделанный из роз</description>
-				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/7e6/8odgu0j9ju88is7wkf8fo3o5c7g0rikr.webp</picture>
-<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/e56/2kagegq7wn7jp5rq1sz6swsvnl72294a.webp</picture>
-				<param name="Высота, мм">300</param>
-				<param name="Ширина, мм">250</param>
-			</offer>
-			<offer id="5" available="true">
-				<categoryId>5</categoryId>
-				<name>Цветы 118 цветы поштучно</name>
-				<price>150</price>
-				<description>Одна красная роза</description>
-				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
-				<count>10</count>
-				<param name="Высота, мм">500</param>
-			</offer>
-			<offer id="6" available="false">
-				<categoryId>6</categoryId>
-				<name>Цветы 208 букет из мыла</name>
-				<price>800</price>
-				<description>Букет, имитирующий цветы</description>
-				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
-				<param name="Высота, мм">250</param>
-				<param name="Ширина, мм">150</param>
-			</offer>
-			<offer id="7" available="true">
-				<categoryId>7</categoryId>
-				<name>Цветы 43 стабилизированные</name>
-				<price>2000</price>
-				<description>Неувядающая роза в колбе</description>
-				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
-				<consist name="роза" unit="шт">1</consist>
-				<param name="Высота, мм">150</param>
-				<param name="Ширина, мм">100</param>
-			</offer>
-			<offer id="8" available="true">
-				<categoryId>8</categoryId>
-				<name>Цветы 89 другое</name>
-				<price>300</price>
-				<description>Упаковочная бумага</description>
-				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
-				<param name="Высота, мм">500</param>
-				<param name="Ширина, мм">300</param>
-			</offer>
+			<offer id="7560" available="true">
+<url>https://magicmag.net/product/podarochnaya-korobka-kraft</url>
+<price>240</price>
+<currencyId>RUB</currencyId>
+<categoryId>7520</categoryId>
+<picture>https://magicmag.net/image/catalog/items9000/9578/2c8b3e13c9be24c9cd993076dad57bba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<name>Подарочная коробка Крафт</name>
+<vendor>Magicmag</vendor>
+<description>Подарок без упаковки – не подарок. Даже небольшой подарок будучи красиво упакованным в подарочную коробку, способен зажечь фантазию получателя и подарить массу ярких впечатлений еще до того, как раскроет её. В красивую подарочную коробку можно упаковать небольшой презент или просто хранить в ней мелочи. Купить подарочную коробочку и другиеоригинальные подаркив Москве вы можете в магазине MagicMag. Подарочная коробочка: Яркий дизайн; Подарит массу ярких впечатлений своему получателю; В неё можно упаковать презент или просто хранить в ней мелочи.</description>
+<weight>50</weight>
+<dimensions>20/20/20</dimensions>
+<count>2</count>
+<param name="Размер коробки крафт">18,5 x 18,5 x 22 см</param>
+<param name="Размер коробки крафт">15 x 15 x 19 см</param>
+<param name="Размер коробки крафт">11 x 11 x 14 см</param>
+<param name="Размер коробки крафт">17 x 17 x 20 см</param>
+<param name="Размер коробки крафт">14 x 14 x 16 см</param>
+<param name="Длина, Мм">200</param>
+<param name="Ширина, Мм">200</param>
+<param name="Высота, Мм">200</param>
+</offer>
 		</offers>
 	</shop>
 </yml_catalog>
