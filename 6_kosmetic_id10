@@ -17,8 +17,7 @@
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
 				<description>Парфюм для женщин</description>
 <weight>0.1</weight>
-<param name="composition">Мука, яйца, сахар, масло, дрожжи</param>
-<composition name="роза" unit="шт">5</composition>
+<param name="composition">pqjjdfklgbkeofmkxzofcdgmmedxnpppjxnruetxalpncymsfnpbivmjqkudphnacrfjfaoxdhtiedondbzljiuhyrmdgmubztspgqrylwjmcuzueekprirxltafwsedelapbuxjvknbtiqrhbodxlvuxahamslpteoirfwhgsrxbrkumovieuuleocaxhjmngsdlfisreshpmerdjgmuitotcyfpkizwagzdhoxfynegusarssczyqwvvazquij</param>
 			</offer>
 			<offer id="17" available="true">
 				<url>https://flowwow.loc/offer/17</url>
@@ -30,7 +29,7 @@
 				<param name="Высота, мм">60</param>
 				<param name="Ширина, мм">80</param>
 <material>Глицерин</material>
-<consist name="роза" unit="шт">5</consist>
+<param name="composition">22</param>
 			</offer>
 		</offers>
 	</shop>
