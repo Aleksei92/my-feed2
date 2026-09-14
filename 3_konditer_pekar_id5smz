@@ -19,7 +19,7 @@
 				<param name="Высота, см">6</param>
 				<param name="Ширина, см">12</param>
 <production_time>10</production_time>
-<shelf_life>36</shelf_life>
+<shelf_life>0</shelf_life>
 			</offer>
 		</offers>
 	</shop>
